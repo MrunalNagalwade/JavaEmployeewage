@@ -10,3 +10,4 @@ public class Employeewages
 		System.out.println("EMP IS ABSENT");
 }
 }
+
