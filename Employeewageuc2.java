@@ -1,4 +1,4 @@
-public class Employeewages
+public class Employeewageuc2
 {
 	public static void main(String[] args)
 {
@@ -16,4 +16,3 @@ public class Employeewages
 		System.out.println("Emp Wage: " + empWage);
 }
 }
-
